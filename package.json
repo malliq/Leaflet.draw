@@ -1,0 +1,7 @@
+{
+  "name": "@malliq/leaflet-draw",
+  "version": "1.0.3",
+  "description": "Leaflet draw plugin - dist only vendor package",
+  "main": "dist/leaflet.draw.js",
+  "style": "dist/leaflet.draw.css"
+}
